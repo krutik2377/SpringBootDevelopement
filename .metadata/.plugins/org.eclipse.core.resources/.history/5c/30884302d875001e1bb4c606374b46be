@@ -1,0 +1,5 @@
+package com.learnspring.rest.webservices.restfulwebservices.helloworld;
+
+public class HelloWorldController {
+
+}
